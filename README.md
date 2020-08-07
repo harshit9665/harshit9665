@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**harshit9665/harshit9665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi 👋 Harshit here... 
 
 - 🔭 I’m currently working on Analytics
 - 🌱 I’m currently learning React.js sideby...
@@ -10,7 +6,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for full time role in Data Analytics
 - 💬 Ask me about Data Analytics & Visualizations.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 You can connect with me here,
