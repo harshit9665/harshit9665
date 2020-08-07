@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" /> </p>
 [![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
+
+[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
 <p align="center">
 <a href="https://twitter.com/harshit75492894" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harshit75492894" height="20" width="20" /></a> | 
 <a href="https://linkedin.com/in/harshit-singh-data" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-singh-data" height="20" width="20" /></a> | 
