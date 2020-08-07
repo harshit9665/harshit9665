@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" /> </p>
+[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
 <p align="center">
 <a href="https://twitter.com/harshit75492894" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harshit75492894" height="20" width="20" /></a> | 
 <a href="https://linkedin.com/in/harshit-singh-data" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-singh-data" height="20" width="20" /></a> | 
@@ -10,13 +11,7 @@
 <a href="https://instagram.com/aarav_singh96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aarav_singh96" height="20" width="20" /></a> |
 <a href="https://medium.com/@harshit9665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshit9665" height="20" width="20" /></a>
 </p>
-[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)]
 
-https://badges.pufler.dev/repos/harshit9665
-
-###### Markdown
-
-[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
 
 - 🔭 I’m currently working on Analytics
 - 🌱 I’m currently learning React.js sideby...
