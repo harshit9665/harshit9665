@@ -12,6 +12,12 @@
 </p>
 [![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)]
 
+`https://badges.pufler.dev/repos/harshit9665`
+
+###### Markdown
+
+`[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)`
+
 - 🔭 I’m currently working on Analytics
 - 🌱 I’m currently learning React.js sideby...
 - 👯 I’m looking to collaborate on Data Science
