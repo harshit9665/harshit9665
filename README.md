@@ -1,7 +1,8 @@
 ### Hi 👋 Harshit here... 
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" /> </p> https://badges.pufler.dev/repos/{username}
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" /> </p>
+[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
 
 - 🔭 I’m currently working on Analytics
 - 🌱 I’m currently learning React.js sideby...
