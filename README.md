@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Harshit
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" /> </p>[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" /></p>
+[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
 
 - 🔭 My area of interest is Analytics & Visulizations. 
 - 🌱 I’m currently learning React.js sideby.
@@ -20,6 +21,7 @@ You can connect with me here,
 [![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshit9665)](https://github.com/harshit9665/github-readme-stats)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9665&layout=compact&hide=html" alt="harshit9665" />
+
 
 <p align="center"> 
 <a href="https://linkedin.com/in/harshit-singh-data" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-singh-data" height="20" width="20" /></a> |
