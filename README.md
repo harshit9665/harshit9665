@@ -1,23 +1,11 @@
 ### Hi there 👋 I'm Harshit
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" />
+<img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" />
+  
+[![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
 
-  [![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
-
-  [![Years Badge](https://badges.pufler.dev/years/harshit9665)](https://badges.pufler.dev)
-
-
-
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/harshit9665/harshit9665?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/harshit9665?style=flat-square&color=limegreen&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/harshit9665?style=flat-square&color=green&logo=github">
-  </a>
+[![Years Badge](https://badges.pufler.dev/years/harshit9665)](https://badges.pufler.dev)
 
 
 - 🔭 My area of interest is in Analytics & Visulizations. 
