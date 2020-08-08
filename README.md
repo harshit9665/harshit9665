@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9665" alt="harshit9665" /></p>
+
 [![Repos Badge](https://badges.pufler.dev/repos/harshit9665)](https://badges.pufler.dev)
 
-- 🔭 My area of interest is Analytics & Visulizations. 
+
+- 🔭 My area of interest is in Analytics & Visulizations. 
 - 🌱 I’m currently learning React.js sideby.
 - 💬 Ask me about Data Science & Visualizations.
 - 📫 How to reach me: harshit9665@gmail.com
@@ -18,9 +20,8 @@ You can connect with me here,
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/aarav9665)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aarav_singh96/)
 
-[![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshit9665)](https://github.com/harshit9665/github-readme-stats)
+[![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshit9665)](https://github.com/harshit9665/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9665&layout=compact&hide=html" alt="harshit9665" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9665&layout=compact&hide=html" alt="harshit9665" />
 
 
 <p align="center"> 
