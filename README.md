@@ -22,15 +22,14 @@ You can connect with me here,
 
 
 [![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshit9665)](https://github.com/harshit9665/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit9665&show_icons=true" alt="harshit9665" />
 
 
-<center><p align="left">
+
+<center><p>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9665&layout=compact&hide=html" alt="harshit9665" /></center>
-
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p></center>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9665&layout=compact&hide=html" alt="harshit9665" />
 
 <p align="center"> 
 <a href="https://linkedin.com/in/harshit-singh-data" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-singh-data" height="20" width="20" /></a> |
@@ -40,7 +39,5 @@ You can connect with me here,
 <a href="https://kaggle.com/harshit9665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshit9665" height="20" width="20" /></a> | 
 <a href="https://instagram.com/aarav_singh96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aarav_singh96" height="20" width="20" /></a>
 </p>
-
-
 
 ---
